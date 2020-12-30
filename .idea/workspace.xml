@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8831f2b2-e4cf-4e43-ba3f-eb1bcc472495" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="remotetesting@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="remotetesting@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="remotetesting@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="remotetesting: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="remotetesting@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="remotetesting: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="remotetesting@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="remotetesting: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="remotetesting@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="remotetesting: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e5sXi3ZHcxijMF7tr2SDF7AFSA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="C:/MyFiles/TestingSiteApplication" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\TestingSite\TestingSiteApplication\src\main\resources\static\style" />
+      <recent name="C:\TestingSite\TestingSiteApplication\src\main\resources\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\TestingSite\TestingSiteApplication\src\main\resources\static\style" />
+      <recent name="C:\TestingSite\TestingSiteApplication\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="TestingSiteApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.koldaev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.koldaev.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8831f2b2-e4cf-4e43-ba3f-eb1bcc472495" name="Default Changelist" comment="" />
+      <created>1593622829115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593622829115</updated>
+      <workItem from="1593622835266" duration="866000" />
+      <workItem from="1593706768299" duration="5483000" />
+      <workItem from="1593792244988" duration="5034000" />
+      <workItem from="1593876008733" duration="6898000" />
+      <workItem from="1593929296304" duration="13329000" />
+      <workItem from="1594057870574" duration="10364000" />
+      <workItem from="1594144801771" duration="4129000" />
+      <workItem from="1594221675525" duration="12257000" />
+      <workItem from="1594309564887" duration="6465000" />
+      <workItem from="1594396757725" duration="7903000" />
+      <workItem from="1594472824264" duration="9571000" />
+      <workItem from="1594548387797" duration="4711000" />
+      <workItem from="1594565966776" duration="2440000" />
+      <workItem from="1594653320603" duration="5753000" />
+      <workItem from="1594740351669" duration="16169000" />
+      <workItem from="1594829204233" duration="6003000" />
+      <workItem from="1594908968538" duration="194000" />
+      <workItem from="1594909211764" duration="7607000" />
+      <workItem from="1594998041375" duration="2775000" />
+      <workItem from="1595148765121" duration="60000" />
+      <workItem from="1598560323444" duration="49000" />
+      <workItem from="1599330597038" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593945246756">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593945246756" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1594754899863">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1594754899863" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1599330628889">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599330628889" />
+    <state width="1877" height="247" key="GridCell.Tab.0.bottom" timestamp="1598560372475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="247" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598560372475" />
+    <state width="1877" height="247" key="GridCell.Tab.0.center" timestamp="1598560372475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="247" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598560372475" />
+    <state width="1877" height="247" key="GridCell.Tab.0.left" timestamp="1598560372475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="247" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598560372475" />
+    <state width="1877" height="247" key="GridCell.Tab.0.right" timestamp="1598560372475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="247" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598560372475" />
+    <state width="1877" height="247" key="GridCell.Tab.1.bottom" timestamp="1598560372475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="247" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598560372475" />
+    <state width="1877" height="247" key="GridCell.Tab.1.center" timestamp="1598560372475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="247" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598560372475" />
+    <state width="1877" height="247" key="GridCell.Tab.1.left" timestamp="1598560372475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="247" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598560372475" />
+    <state width="1877" height="247" key="GridCell.Tab.1.right" timestamp="1598560372475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="247" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598560372475" />
+    <state width="1877" height="175" key="GridCell.Tab.2.bottom" timestamp="1594759204098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="175" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594759204098" />
+    <state width="1877" height="175" key="GridCell.Tab.2.center" timestamp="1594759204098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="175" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594759204098" />
+    <state width="1877" height="175" key="GridCell.Tab.2.left" timestamp="1594759204098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="175" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594759204098" />
+    <state width="1877" height="175" key="GridCell.Tab.2.right" timestamp="1594759204098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="175" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594759204098" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1593879402210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1593879402210" />
+    <state x="690" y="275" key="extract.method.dialog" timestamp="1594310461382">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="275" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594310461382" />
+    <state x="342" y="215" key="new project wizard" timestamp="1599330653647">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="215" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1599330653647" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594655355300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594655355300" />
+  </component>
+</project>

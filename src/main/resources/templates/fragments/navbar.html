@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org" xmlns:sec="http://www.thymeleaf.org/extras/spring-security">
+<head>
+    <meta charset="UTF-8">
+    <title>Главная</title>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light" th:fragment="mynavbar">
+
+    <a class="navbar-brand" href="/editprofile" style="font-size: 25px;">Мой профиль</a>
+
+<!--    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">-->
+<!--        <span class="navbar-toggler-icon"></span>-->
+<!--    </button>-->
+
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup" style="font-size: 20px;">
+
+        <div sec:authorize="hasRole('ROLE_ADMIN')">
+            <div class="navbar-nav">
+                <a class="nav-item nav-link active" href="/admin/getUsersList">Список пользователей</a>
+                <a class="nav-item nav-link" href="/admin/createUser">Создать пользователя</a>
+            </div>
+        </div>
+
+        <div sec:authorize="hasAnyRole('ROLE_TEACHER')">
+            <div class="navbar-nav">
+                <a class="nav-item nav-link active" href="/teacher/myCreatingTests">Мои тесты</a>
+                <a class="nav-item nav-link" href="/teacher/createTest">Создать тест</a>
+            </div>
+        </div>
+
+        <div sec:authorize="hasRole('ROLE_USER')">
+            <div class="navbar-nav">
+                <a class="nav-item nav-link active" href="/getTestsList">Все тесты</a>
+                <a class="nav-item nav-link" href="/resultsTests">Пройденные тесты</a>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="collapse navbar-collapse justify-content-end" id="navbarCollapse">
+        <ul class="navbar-nav">
+            <!--                    <li class="nav-item active">-->
+            <!--                        <span class="nav-item" th:text="${#authitication.name} + '[' + ${#authentication.principal.authorities} + ']'"></span>-->
+            <!--                    </li>-->
+            <li class="nav-item active">
+                <a th:href="@{/logout}" class="nav-item nav-link">Выйти</a>
+            </li>
+        </ul>
+    </div>
+
+</nav>
+
+</body>
+</html>
